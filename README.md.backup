@@ -9,11 +9,11 @@
 - [X] Regarder sur votre dossier simplon-cifar10-mosaic sur votre compte github pour voir comment initialiser git et connecter au serveur distant
 - [X] Faire une petite modification dans le .md
 - [X] Faire un commit
-- [X] Faire un "push" de votre fichier local sur le serveur
-- [X] Voir sur le serveur vos modifications
-- [X] Etudier comment fonctionne le .gitignore
-- [X] Ajouter un fichier test.toto en local
-- [X] S'arranger pour qu'il ne soit pas pris en compte dans le suivi des fichiers de git
+- Faire un "push" de votre fichier local sur le serveur
+- Voir sur le serveur vos modifications
+- Etudier comment fonctionne le .gitignore
+- Ajouter un fichier test.toto en local
+- S'arranger pour qu'il ne soit pas pris en compte dans le suivi des fichiers de git
 
 ## Notebook
 Faire les étapes du notebook pour obtenir une image mosaïque du type:
